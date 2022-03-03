@@ -1,0 +1,35 @@
+nav {
+	background-color: rgb(49, 109, 143);
+	height: 6vh;
+	display: flex;
+	justify-content: right;
+	align-items: center;
+}
+
+.table-button {
+	display: flex;
+	transition: 168ms ease-in;
+	padding-right: 6px;
+}
+
+.table-button * {
+	display: flex;
+	padding: 2px;
+	transition: 168ms ease-in;
+}
+
+.table-button:hover {
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+.table-button i {
+	font-size: 3ch;
+	color:#f7d335;
+	float: right;
+}
+
+nav>div>div {
+	margin-right: 4px;
+	color: whitesmoke;
+}

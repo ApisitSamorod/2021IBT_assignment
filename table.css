@@ -1,0 +1,25 @@
+#table-title {
+	padding: 24px 0px 24px 0px;
+	font-size: 5.5ch;
+}
+
+#reserve-table {
+	border-collapse: collapse;
+}
+
+#reserve-table td, #reserve-table th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#table-time-label {
+	width: 110px;
+}
+
+#table-room-label {
+	width: 160px;
+}
+
+#table-owner-label {
+	width: 250px;
+}
